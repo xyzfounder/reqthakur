@@ -1,0 +1,59 @@
+2026-11-01 23:53:31,907 - [WARNING] - REQBOT - MongoDB connection failed: Invalid URI scheme: URI must begin with 'mongodb://' or 'mongodb+srv://'. Falling back to SQLite.
+2026-11-01 23:53:32,036 - [INFO] - REQBOT - SQLite database initialized at C:\Users\HP\OneDrive\Desktop\tgbots\REQBOT\reqbot.db
+2026-11-01 23:53:35,400 - [INFO] - pyrogram.session.auth - Start creating a new auth key on DC2
+2026-11-01 23:53:35,402 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:53:35,659 - [INFO] - pyrogram.connection.connection - Connected! Production DC2 - IPv4
+2026-11-01 23:53:37,713 - [INFO] - pyrogram.session.auth - Done auth key exchange: DhGenOk
+2026-11-01 23:53:37,714 - [INFO] - pyrogram.connection.connection - Disconnected
+2026-11-01 23:53:37,779 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:53:38,074 - [INFO] - pyrogram.connection.connection - Connected! Production DC2 - IPv4
+2026-11-01 23:53:38,104 - [INFO] - pyrogram.session.session - NetworkTask started
+2026-11-01 23:53:38,909 - [INFO] - pyrogram.session.session - Session initialized: Layer 228
+2026-11-01 23:53:38,910 - [INFO] - pyrogram.session.session - Device: CPython 3.12.10 - PyrogramMod 2.4.1
+2026-11-01 23:53:38,910 - [INFO] - pyrogram.session.session - System: Windows 11 (en)
+2026-11-01 23:53:38,910 - [INFO] - pyrogram.session.session - Session started
+2026-11-01 23:53:38,912 - [INFO] - pyrogram.session.session - PingTask started
+2026-11-01 23:53:39,159 - [INFO] - pyrogram.session.session - PingTask stopped
+2026-11-01 23:53:39,160 - [INFO] - pyrogram.session.session - NetworkTask stopped
+2026-11-01 23:53:39,160 - [INFO] - pyrogram.connection.connection - Disconnected
+2026-11-01 23:53:39,160 - [INFO] - pyrogram.session.session - Session stopped
+2026-11-01 23:53:39,227 - [INFO] - pyrogram.session.auth - Start creating a new auth key on DC5
+2026-11-01 23:53:39,228 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:53:39,407 - [INFO] - pyrogram.connection.connection - Connected! Production DC5 - IPv4
+2026-11-01 23:53:40,993 - [INFO] - pyrogram.session.auth - Done auth key exchange: DhGenOk
+2026-11-01 23:53:40,994 - [INFO] - pyrogram.connection.connection - Disconnected
+2026-11-01 23:53:41,024 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:53:41,146 - [INFO] - pyrogram.connection.connection - Connected! Production DC5 - IPv4
+2026-11-01 23:53:41,147 - [INFO] - pyrogram.session.session - NetworkTask started
+2026-11-01 23:54:08,025 - [INFO] - REQBOT - Connected to MongoDB database.
+2026-11-01 23:54:11,742 - [INFO] - pyrogram.session.auth - Start creating a new auth key on DC2
+2026-11-01 23:54:11,743 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:54:11,971 - [INFO] - pyrogram.connection.connection - Connected! Production DC2 - IPv4
+2026-11-01 23:54:14,469 - [INFO] - pyrogram.session.auth - Done auth key exchange: DhGenOk
+2026-11-01 23:54:14,470 - [INFO] - pyrogram.connection.connection - Disconnected
+2026-11-01 23:54:14,506 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:54:14,754 - [INFO] - pyrogram.connection.connection - Connected! Production DC2 - IPv4
+2026-11-01 23:54:14,757 - [INFO] - pyrogram.session.session - NetworkTask started
+2026-11-01 23:54:15,554 - [INFO] - pyrogram.session.session - Session initialized: Layer 228
+2026-11-01 23:54:15,556 - [INFO] - pyrogram.session.session - Device: CPython 3.12.10 - PyrogramMod 2.4.1
+2026-11-01 23:54:15,557 - [INFO] - pyrogram.session.session - System: Windows 11 (en)
+2026-11-01 23:54:15,557 - [INFO] - pyrogram.session.session - Session started
+2026-11-01 23:54:15,562 - [INFO] - pyrogram.session.session - PingTask started
+2026-11-01 23:54:15,987 - [INFO] - pyrogram.session.session - PingTask stopped
+2026-11-01 23:54:15,990 - [INFO] - pyrogram.session.session - NetworkTask stopped
+2026-11-01 23:54:15,991 - [INFO] - pyrogram.connection.connection - Disconnected
+2026-11-01 23:54:15,991 - [INFO] - pyrogram.session.session - Session stopped
+2026-11-01 23:54:16,062 - [INFO] - pyrogram.session.auth - Start creating a new auth key on DC5
+2026-11-01 23:54:16,063 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:54:16,216 - [INFO] - pyrogram.connection.connection - Connected! Production DC5 - IPv4
+2026-11-01 23:54:17,782 - [INFO] - pyrogram.session.auth - Done auth key exchange: DhGenOk
+2026-11-01 23:54:17,784 - [INFO] - pyrogram.connection.connection - Disconnected
+2026-11-01 23:54:17,854 - [INFO] - pyrogram.connection.connection - Connecting...
+2026-11-01 23:54:18,011 - [INFO] - pyrogram.connection.connection - Connected! Production DC5 - IPv4
+2026-11-01 23:54:18,012 - [INFO] - pyrogram.session.session - NetworkTask started
+2026-11-01 23:54:18,729 - [INFO] - pyrogram.session.session - Session initialized: Layer 228
+2026-11-01 23:54:18,729 - [INFO] - pyrogram.session.session - Device: CPython 3.12.10 - PyrogramMod 2.4.1
+2026-11-01 23:54:18,730 - [INFO] - pyrogram.session.session - System: Windows 11 (en)
+2026-11-01 23:54:18,730 - [INFO] - pyrogram.session.session - Session started
+2026-11-01 23:54:18,731 - [INFO] - pyrogram.session.session - PingTask started
+2026-11-01 23:54:19,353 - [INFO] - pyrogram.dispatcher - Started 16 HandlerTasks
