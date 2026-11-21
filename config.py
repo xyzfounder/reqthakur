@@ -36,9 +36,10 @@ except ValueError:
 
 SUDO_USERS = [OWNER_ID] if OWNER_ID else []
 
-# Database
+# Database — MongoDB is REQUIRED
 MONGO_URI = os.getenv("MONGO_URI", "").strip()
-SQLITE_DB_PATH = os.path.join(os.path.dirname(__file__), "reqbot.db")
+if not MONGO_URI:
+    logger.critical("❌ MONGO_URI is not set in .env! MongoDB is required. Bot cannot start.")
 
 # Optional Log Channel
 LOG_CHANNEL_RAW = os.getenv("LOG_CHANNEL", "").strip()
